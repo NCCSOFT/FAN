@@ -1,1 +1,5 @@
-# FAN
+# LD HL, #4000
+# LD DE, #4001
+# LD BC, #1B00
+# LDIR 
+# RET
